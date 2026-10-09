@@ -1,4 +1,4 @@
-﻿# ðŸ›¡ï¸ Vault Guardian
+# Vault Guardian
 
 [![Ecosystem: Obsidian](https://img.shields.io/badge/Obsidian-Second%20Brain-purple.svg)](https://obsidian.md/)
 [![Language: PowerShell](https://img.shields.io/badge/Language-PowerShell-blue.svg)](https://microsoft.com/powershell)
@@ -10,15 +10,15 @@ High-speed graph integrity guardian, wikilink validator, and cloud sync clutter 
 
 ---
 
-## âš¡ Features
+## Features
 
 - **Sub-Second O(1) HashSet Scanner**: Validates wikilink references, aliases, and filenames across 3,800+ notes in under 3 seconds.
 - **Zero-Orphan Policy**: Detects and highlights notes without incoming backlinks to ensure complete Map of Content (MOC) graph connectivity.
-- **Cloud Sync Conflict Cleaner**: Detects and purges sync clash files from Proton Drive, iCloud, and Dropbox (\*(# Edit conflict*\, \*.bak\, \*.tmp\).
+- **Cloud Sync Conflict Cleaner**: Detects and purges sync clash files from Proton Drive, iCloud, and Dropbox (*(# Edit conflict*, *.bak, *.tmp).
 - **Quartz SSG Slugification Compliance**: Ensures markdown notes follow clean static site generator naming standards.
 
 ---
 
-## ðŸ“œ License
+## License
 
 MIT License. Built by [Clawtan](https://github.com/Clawtan).
